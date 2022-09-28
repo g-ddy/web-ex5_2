@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ex5_2_jakarta:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ex5_2_jakarta</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ex5_2_jakarta-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ex5_2_jakarta:war exploded" />
+    </root>
+  </artifact>
+</component>
